@@ -6,21 +6,23 @@ The project contains the following subdirectories
 - tools, constains mathlab functions and tools to prepare results
 - src, the source of the projects. It contains two mains branches de and mx. de contains core simulation functionality, while mx contains workflow suppor and the hierarchical energy model.
 
+------------
+
 Este proyecto constituye un derivado del trabajo original de nuestro estimado profesor, enriqueciéndolo y ampliándolo al implementar la técnica de hashing consistente en este algoritmo. Al embarcarnos en esta empresa, abrazamos la oportunidad de magnificar el legado académico, infundiendo nuevas ideas y mejorando su eficacia para su aplicación práctica.
 | Clave de la clase   |     ICC006      |
 |:----------|:-------------|
 | **Título del proyecto** |  Consistent y Rendezvous Hashing |
 | **Miembros de equipo** | 35994 - Sebastian Garcia<br>32366 - Luis Bernardo Bremer Ortega<br>32954 - John Brandon Nemeth Rodriguez<br>35592 - Rodrigo Rosas Fernandez|
 
--------
+
 ##**Introducción:**
----
+----
 Este reporte se enfocará en el estudio detallado del algoritmo de Consistent Hashing. Este algoritmo, introducido por primera vez por Karger et al. en 1997, se ha convertido en una solución clave para el equilibrio de carga, la tolerancia a fallos y la escalabilidad en sistemas distribuidos. Su aplicación incluye sistemas de almacenamiento en caché, bases de datos distribuidas y balanceo de carga en servidores web.
 En este reporte, se discutirán los fundamentos y las evoluciones del algoritmo de Consistent Hashing, incluyendo su pseudocódigo, análisis asintótico, casos de estudio, características del conjunto de datos, implementación, métricas, resultados y limitaciones. Se mostrarán las iteraciones de cada implementación, incluyendo Linear Probing.
 Además, se examinarán otras heurísticas y enfoques relacionados que se han desarrollado para abordar los desafíos y demandas de la distribución de datos y la escalabilidad en sistemas modernos. Con este análisis exhaustivo, se espera brindar una visión actualizada y completa del impacto del algoritmo de Consistent Hashing en el campo de la informática distribuida.
 
 ##**Análisis asintótico de Consistent Hashing:**
----
+----
 El enfoque principal es en cómo cambia la distribución de datos y la cantidad de datos que deben moverse cuando se agregan o eliminan nodos del sistema. Existen dos aspectos clave en Consistent Hashing.
 
 **Load Balancing:**
