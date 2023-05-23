@@ -12,6 +12,7 @@ Este proyecto constituye un derivado del trabajo original de nuestro estimado pr
 | **Título del proyecto** |  Consistent y Rendezvous Hashing |
 | **Miembros de equipo** | 35994 - Sebastian Garcia<br>32366 - Luis Bernardo Bremer Ortega<br>32954 - John Brandon Nemeth Rodriguez<br>35592 - Rodrigo Rosas Fernandez|
 
+-------
 ##**Introducción:**
 ---
 Este reporte se enfocará en el estudio detallado del algoritmo de Consistent Hashing. Este algoritmo, introducido por primera vez por Karger et al. en 1997, se ha convertido en una solución clave para el equilibrio de carga, la tolerancia a fallos y la escalabilidad en sistemas distribuidos. Su aplicación incluye sistemas de almacenamiento en caché, bases de datos distribuidas y balanceo de carga en servidores web.
