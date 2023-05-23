@@ -1,9 +1,4 @@
 # TSF (Teikoku Scheduling Framewok) 
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahiralesc%2FTSF&count_bg=%230F0898&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 The TSF that started as a tool for simulating load balancing and scheduling problems. The project started at the University of Dortmund Germany, our branch has continously added new functionality, such as: distributed information system, workflow scheduling sypport, and energy conservation.  
 
 The project contains the following subdirectories
@@ -11,3 +6,8 @@ The project contains the following subdirectories
 - tools, constains mathlab functions and tools to prepare results
 - src, the source of the projects. It contains two mains branches de and mx. de contains core simulation functionality, while mx contains workflow suppor and the hierarchical energy model.
 
+This project represents a derivative of our esteemed professor's pioneering research, seamlessly extending and enriching the existing framework by integrating the concept of consistent hashing into its algorithmic foundation. By embarking on this venture, we embrace the opportunity to magnify the scholarly legacy, infusing it with novel ideas and augmenting its efficacy for practical implementation.
+| Clave de la clase   |     ICC006      |
+|:----------|:-------------|
+| **Título del proyecto** |  Consistent y Rendezvous Hashing |
+| **Miembros de equipo** | 35994 - Sebastian Garcia<br>32366 - Luis Bernardo Bremer Ortega<br>32954 - John Brandon Nemeth Rodriguez<br>35592 - Rodrigo Rosas Fernandez|
