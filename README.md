@@ -5,8 +5,9 @@ The project contains the following subdirectories
 - doc, contains a document that describes the architecture of the framework
 - tools, constains mathlab functions and tools to prepare results
 - src, the source of the projects. It contains two mains branches de and mx. de contains core simulation functionality, while mx contains workflow suppor and the hierarchical energy model.
--------------------------------------------
+----
 Este proyecto constituye un derivado del trabajo original de nuestro estimado profesor, enriqueciéndolo y ampliándolo al implementar la técnica de consistent hashing en este algoritmo. Abrazamos la oportunidad de magnificar el legado académico, infundiendo nuevas ideas y mejorando su eficacia para su aplicación práctica.
+---
 | Clave de la clase   |     ICC006      |
 |:----------|:-------------|
 | **Título del proyecto** |  Consistent y Rendezvous Hashing |
